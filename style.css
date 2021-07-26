@@ -1,0 +1,51 @@
+	
+  body{
+		background-color: rgb(246, 231, 203);
+  }
+	#Nome{
+		color: rgb(247, 37, 133);
+		font-size: 50px;
+    font-family: 'Zen Tokyo Zoo', cursive;
+    text-align: center;
+	}
+  #insta{
+    color: rgb (247, 37, 133);
+    font-family: "Montserrat";
+    margin-left: 50%;
+    text-align: center;
+  }
+  #Foto{
+    margin-left: 35%;
+  }
+  #Menu ul li{
+    display: inline-block;
+  }
+  #Menu ul{
+    text-align: center;
+  }
+  #Menu ul li a{
+    color: rgb(116, 211, 174);
+    font-size: 32px;  
+    font-family: "Montserrat";
+    text-decoration: none;
+  }
+  #Gato{
+    float: right;
+    margin-right: 50px;
+  }
+  h3{
+		color: rgb(114, 9, 183);
+    font-family: "Raleway";
+    text-align: justify;
+    padding-left: 200px;
+    padding-right: 200px;
+  }
+  #Habilidades{
+    color: rgb(116, 211, 174);
+    font-family: "Montserrat";
+  }
+  #Gosto{
+    color: rgb(103, 141, 88);
+    background-color: rgb(221, 151, 135);
+    font-family: "Montserrat";
+  }
